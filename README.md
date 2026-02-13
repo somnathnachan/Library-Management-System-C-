@@ -129,13 +129,6 @@ ID   Title               Author            Status
 
 ---
 
-## 👨‍💻 Author
-
-**Soham**
-C++ Developer Aspirant 🚀
-
----
-
 ## ⭐ If you like this project
 
 Give it a star on GitHub ⭐ and feel free to fork & improve!
